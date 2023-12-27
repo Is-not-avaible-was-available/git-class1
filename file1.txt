@@ -1,3 +1,4 @@
 This is the first line from main.
 Added another line from main.
 Added another line 3.
+Added line from feature 1.
